@@ -1,4 +1,4 @@
-#include <arduino.h>
+#include <Arduino.h>
 
 int redPin = 5;
 int greenPin = 6;
