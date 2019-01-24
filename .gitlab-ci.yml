@@ -1,4 +1,4 @@
-image: git.dglloyd.net:4567/dlloyd/platformio-docker:latest
+image: git.dglloyd.net:4567/dlloyd/platformio-docker:master
 
 build:
     script:
